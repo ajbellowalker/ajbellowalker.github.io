@@ -1,1 +1,0 @@
-FASTQ → Kraken2 → MEGAHIT → MetaBAT2 → CheckM2 → GTDB-Tk → MultiQC → Figures
