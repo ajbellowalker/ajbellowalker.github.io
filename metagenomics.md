@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Metagenomic Pipeline
@@ -6,13 +5,13 @@ title: Metagenomic Pipeline
 
 # 🧪 Scalable Metagenomic Analysis Pipeline
 
-👉 https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline
+👉 [https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline]
 
 ---
 
 ## 🔬 Overview
 
-This pipeline performs genome-resolved metagenomic analysis including:
+This pipeline performs genome-resolved metagenomic analysis, including:
 
 - Taxonomic profiling (Kraken2)
 - Assembly (MEGAHIT)
@@ -30,9 +29,9 @@ This pipeline performs genome-resolved metagenomic analysis including:
 
 ## 📊 Example Outputs
 
-<img src="figures/figure_1_taxa_barplot.png">
+![Taxa](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/figure_1_taxa_barplot.png)
 
-<img src="figures/figure_3_MAG_prevalence.png">
+![MAG](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/figure_3_MAG_prevalence.png)
 
 ---
 
@@ -40,4 +39,4 @@ This pipeline performs genome-resolved metagenomic analysis including:
 
 ```bash
 nextflow run main.nf -profile conda
-
+```

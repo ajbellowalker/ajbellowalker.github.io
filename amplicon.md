@@ -1,9 +1,7 @@
-
 ---
 
 ## 🧬 amplicon.md
 
-```markdown
 ---
 layout: default
 title: Amplicon Pipeline
@@ -11,7 +9,7 @@ title: Amplicon Pipeline
 
 # 🧬 Amplicon Analysis Pipeline
 
-👉 https://github.com/ajbellowalker/amplicon-analysis-pipeline
+👉 [https://github.com/ajbellowalker/amplicon-analysis-pipeline]
 
 ---
 
@@ -37,3 +35,4 @@ QIIME2-based pipeline for 16S rRNA analysis:
 
 ```bash
 qiime tools import ...
+```
