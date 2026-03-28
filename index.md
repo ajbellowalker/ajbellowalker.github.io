@@ -12,13 +12,38 @@ title: Home
 
 ## 🚀 About Me
 
-I am a bioinformatics researcher specialised in microbial genomics. My work focuses on developing scalable, reproducible pipelines to analyse microbial communities, with particular emphasis on nitrogen metabolism and efficiency in the rumen microbiome.
+I am a bioinformatics scientist specialising in scalable genome-resolved metagenomics and microbiome systems biology. My work focuses on building production-grade pipelines to reconstruct and analyse microbial genomes at scale (>2.3B reads, 1,400+ MAGs) with particular emphasis on nitrogen metabolism and efficiency in the rumen microbiome.
 
 I combine:
 - High-throughput sequencing analysis  
 - Workflow engineering (Nextflow)  
 - Statistical modelling (R)  
 - Functional genomics  
+
+---
+
+## 🚀 Key Achievements
+
+- Processed >2.3 billion sequencing reads  
+- Reconstructed 1,429 MAGs  
+- Identified 80 putative novel genomes  
+- Built scalable Nextflow pipelines for metagenomics  
+
+---
+
+## 🌍 Research Impact
+
+My research focuses on improving nitrogen use efficiency in livestock through microbiome engineering, contributing to more sustainable agricultural systems.
+
+---
+
+## 🧠 Key Skills
+
+- Nextflow (DSL2)  
+- Metagenomics & microbiome analysis  
+- Genome assembly & binning  
+- R (DESeq2, NMDS, PERMANOVA)  
+- Python (data analysis & visualisation)  
 
 ---
 
@@ -48,49 +73,6 @@ QIIME2-based workflow for 16S rRNA analysis:
 - Statistical modelling  
 
 👉 [View Project](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
-
----
-
-## 🔄 Pipeline Overview
-
-![Pipeline](figures/pipeline_diagram.png)
-
----
-
-## 📊 Example Outputs
-
-### Taxonomic Composition
-![Taxa](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/figure_1_taxa_barplot.png)
-
----
-
-### Nitrogen Metabolism in MAGs
-![Nitrogen](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/rumen_nitrogen_cycle_MAGs.png)
-
----
-
-### MAG Prevalence
-![MAG](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/figure_3_MAG_prevalence.png)
-
----
-
-## 🧠 Key Skills
-
-- Nextflow (DSL2)  
-- Metagenomics & microbiome analysis  
-- Genome assembly & binning  
-- R (DESeq2, NMDS, PERMANOVA)  
-- Python (data analysis & visualisation)  
-
----
-
-## 🌍 Research Impact
-
-This work enables genome-resolved analysis of microbial ecosystems and supports research into:
-
-- Nitrogen utilisation efficiency in livestock  
-- Microbial protein synthesis  
-- Sustainable agricultural systems  
 
 ---
 
