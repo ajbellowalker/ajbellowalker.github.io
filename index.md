@@ -3,19 +3,24 @@ layout: default
 title: Home
 ---
 
-# 🧬 Ayemere J. Bellowalker  
+# 🧬 AJ Bellowalker  
 ### Bioinformatics Scientist | Microbial Genomics | Rumen Microbiome
+
+[📄 Download CV](assets/cv.pdf)
 
 ---
 
 ## 🚀 About Me
 
-I develop scalable bioinformatics pipelines for analysing complex microbial ecosystems, with a focus on nitrogen metabolism and efficiency in the rumen microbiome.
+I am a bioinformatics researcher specialising in microbial genomics and genome-resolved metagenomics.
 
-My work integrates:
-- Shotgun metagenomics  
-- Amplicon sequencing  
-- Genome-resolved microbiome analysis  
+My work focuses on developing scalable, reproducible pipelines to analyse microbial communities, with particular emphasis on nitrogen metabolism and efficiency in the rumen microbiome.
+
+I combine:
+- High-throughput sequencing analysis  
+- Workflow engineering (Nextflow)  
+- Statistical modelling (R)  
+- Functional genomics  
 
 ---
 
@@ -23,7 +28,7 @@ My work integrates:
 
 ### 🧪 Scalable Metagenomic Analysis Pipeline
 
-End-to-end Nextflow pipeline for shotgun metagenomics:
+End-to-end Nextflow workflow for shotgun metagenomics:
 
 - Taxonomic profiling (Kraken2)  
 - Assembly (MEGAHIT)  
@@ -31,7 +36,7 @@ End-to-end Nextflow pipeline for shotgun metagenomics:
 - MAG reconstruction  
 - Functional annotation  
 
-👉 [View Project](https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline)
+👉 https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline  
 
 ---
 
@@ -44,7 +49,15 @@ QIIME2-based workflow for 16S rRNA analysis:
 - PERMANOVA & NMDS  
 - Statistical modelling  
 
-👉 [View Project](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
+👉 https://github.com/ajbellowalker/amplicon-analysis-pipeline  
+
+---
+
+## 🔄 Pipeline Overview
+
+{% raw %}
+{% include_relative figures/pipeline_diagram.md %}
+{% endraw %}
 
 ---
 
@@ -72,6 +85,16 @@ QIIME2-based workflow for 16S rRNA analysis:
 - Genome assembly & binning  
 - R (DESeq2, NMDS, PERMANOVA)  
 - Python (data analysis & visualisation)  
+
+---
+
+## 🌍 Research Impact
+
+This work enables genome-resolved analysis of microbial ecosystems and supports research into:
+
+- Nitrogen utilisation efficiency in livestock  
+- Microbial protein synthesis  
+- Sustainable agricultural systems  
 
 ---
 
