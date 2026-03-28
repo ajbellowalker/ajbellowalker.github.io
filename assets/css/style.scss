@@ -1,0 +1,30 @@
+---
+---
+
+body {
+  background-color: #0d0d0d;
+  color: #e6e6e6;
+  font-family: "Helvetica", sans-serif;
+}
+
+a {
+  color: #a855f7; /* purple */
+}
+
+a:hover {
+  color: #facc15; /* gold */
+}
+
+h1, h2, h3 {
+  color: #facc15; /* gold headers */
+}
+
+header {
+  background: #1a1a1a;
+  border-bottom: 2px solid #a855f7;
+}
+
+code {
+  background-color: #1f1f1f;
+  color: #a855f7;
+}

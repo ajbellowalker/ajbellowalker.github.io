@@ -1,0 +1,13 @@
+digraph pipeline {
+    rankdir=LR;
+    node [shape=box, style=filled, color=lightgray];
+
+    FASTQ -> Kraken2;
+    FASTQ -> MEGAHIT;
+    MEGAHIT -> MetaBAT2;
+    MetaBAT2 -> CheckM2;
+    CheckM2 -> GTDB_Tk;
+    GTDB_Tk -> Annotation;
+    Annotation -> MultiQC;
+    MultiQC -> Figures;
+}

@@ -1,3 +1,4 @@
 title: AJ Bellowalker
-description: Bioinformatics Scientist | Microbial Genomics
-theme: jekyll-theme-cayman
+theme: minima
+sass:
+  style: compressed
