@@ -1,12 +1,10 @@
-g
-
 ---
 layout: default
 title: Home
 ---
 
 # 🧬 AJ Bellowalker  
-### Bioinformatics Scientist | Microbial Genomics | Rumen Microbiome
+### Bioinformatics Scientist | Microbial Genomics | Computational Biology
 
 [📄 Download CV](assets/cv.pdf)
 
@@ -14,7 +12,7 @@ title: Home
 
 ## 🚀 About Me
 
-I am a bioinformatics researcher specialising in microbial genomics and genome-resolved metagenomics.
+I am a bioinformatics researcher specialising in microbial genomics.
 
 My work focuses on developing scalable, reproducible pipelines to analyse microbial communities, with particular emphasis on nitrogen metabolism and efficiency in the rumen microbiome.
 
