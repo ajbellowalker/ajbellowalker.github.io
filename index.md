@@ -1,9 +1,14 @@
-# AJ Bellowalker  
-### Bioinformatics | Microbial Genomics | Rumen Microbiome
+---
+layout: default
+title: Home
+---
+
+# Ayemere J. Bellowalker  
+### Bioinformatics Scientist | Microbial Genomics
 
 ---
 
-## 🧬 Research Focus
+## 🧬 About Me
 
 I develop scalable bioinformatics pipelines to analyse microbial communities, with a focus on nitrogen metabolism and efficiency in the rumen microbiome.
 
@@ -13,26 +18,28 @@ I develop scalable bioinformatics pipelines to analyse microbial communities, wi
 
 ### 🔬 Scalable Metagenomic Analysis Pipeline
 End-to-end workflow for shotgun metagenomics:
-- Assembly (MEGAHIT)
-- Binning (MetaBAT2)
-- Functional annotation
-- MAG reconstruction
 
-👉 https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline
+- Assembly (MEGAHIT)  
+- Binning (MetaBAT2)  
+- MAG reconstruction  
+- Functional annotation  
+
+👉 https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline  
 
 ---
 
 ### 🧪 Amplicon Analysis Pipeline
-QIIME2-based pipeline for 16S rRNA analysis:
-- DADA2 denoising
-- Diversity analysis
-- Statistical testing
+QIIME2-based workflow for 16S analysis:
 
-👉 https://github.com/ajbellowalker/amplicon-analysis-pipeline
+- DADA2 denoising  
+- Diversity analysis  
+- Statistical testing  
+
+👉 https://github.com/ajbellowalker/amplicon-analysis-pipeline  
 
 ---
 
-## 📊 Key Outputs
+## 📊 Outputs
 
 - Genome-resolved microbiome analysis  
 - Nitrogen metabolism profiling  
