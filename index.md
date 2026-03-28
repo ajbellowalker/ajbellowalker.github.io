@@ -10,7 +10,7 @@ title: Home
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
 I am a bioinformatics scientist specialising in scalable genome-resolved metagenomics and microbiome systems biology. My work focuses on building production-grade pipelines to reconstruct and analyse microbial genomes at scale (>2.3B reads, 1,400+ MAGs) with particular emphasis on nitrogen metabolism and efficiency in the rumen microbiome.
 
@@ -22,7 +22,7 @@ I combine:
 
 ---
 
-## 🚀 Key Achievements
+## 🎯 Key Achievements
 
 - Processed >2.3 billion sequencing reads  
 - Reconstructed 1,429 MAGs  
@@ -37,13 +37,12 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ---
 
-## 🧠 Key Skills
+## ⚙️ Engineering Approach
 
-- Nextflow (DSL2)  
-- Metagenomics & microbiome analysis  
-- Genome assembly & binning  
-- R (DESeq2, NMDS, PERMANOVA)  
-- Python (data analysis & visualisation)  
+- Modular pipeline architecture (Nextflow DSL2)
+- Reproducible environments (Docker/Conda)
+- Scalable execution (HPC + cloud)
+- Data standardisation and structured outputs 
 
 ---
 
