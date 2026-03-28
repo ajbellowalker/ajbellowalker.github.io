@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Metagenomic Pipeline
@@ -23,15 +24,15 @@ This pipeline performs genome-resolved metagenomic analysis including:
 
 ## 🔄 Workflow
 
-![Pipeline](figures/pipeline_diagram.png)
+<img src="figures/pipeline_diagram.png" class="pipeline">
 
 ---
 
 ## 📊 Example Outputs
 
-![Taxa](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/figure_1_taxa_barplot.png)
+<img src="figures/figure_1_taxa_barplot.png">
 
-![MAG](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/figure_3_MAG_prevalence.png)
+<img src="figures/figure_3_MAG_prevalence.png">
 
 ---
 
@@ -39,4 +40,4 @@ This pipeline performs genome-resolved metagenomic analysis including:
 
 ```bash
 nextflow run main.nf -profile conda
-```
+

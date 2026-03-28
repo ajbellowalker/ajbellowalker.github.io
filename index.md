@@ -3,70 +3,33 @@ layout: default
 title: Home
 ---
 
-# 🧬 AJ Bellowalker  
-### Bioinformatics Scientist | Microbial Genomics | Rumen Microbiome
+# 🧬 AJ Bellowalker
 
-[📄 Download CV](assets/cv.pdf)
+**Bioinformatics Scientist | Microbial Genomics | Rumen Microbiome**
+
+<a href="/assets/AJ_CV.pdf" class="button">⬇ Download CV</a>
 
 ---
 
-## 🚀 About Me
+## 👨‍🔬 About Me
 
 I am a bioinformatics researcher specialising in microbial genomics and genome-resolved metagenomics.
 
-My work focuses on developing scalable, reproducible pipelines to analyse microbial communities, with particular emphasis on nitrogen metabolism and efficiency in the rumen microbiome.
+---
 
-I combine:
-- High-throughput sequencing analysis  
-- Workflow engineering (Nextflow)  
-- Statistical modelling (R)  
-- Functional genomics  
+## 🚀 Featured Projects
+
+### 🧪 Scalable Metagenomic Pipeline
+End-to-end workflow for shotgun metagenomics.
+
+👉 [View Project](metagenomics.html)
 
 ---
 
-## 🔬 Featured Projects
+### 🧬 Amplicon Pipeline
+QIIME2-based microbial community analysis.
 
-### 🧪 Scalable Metagenomic Analysis Pipeline
-
-End-to-end Nextflow workflow for shotgun metagenomics:
-
-- Taxonomic profiling (Kraken2)  
-- Assembly (MEGAHIT)  
-- Binning (MetaBAT2)  
-- MAG reconstruction  
-- Functional annotation  
-
-- [Metagenomic Pipeline](metagenomics.html)
-
----
-
-### 🧬 Amplicon Analysis Pipeline
-
-QIIME2-based workflow for 16S rRNA analysis:
-
-- DADA2 denoising  
-- Diversity analysis  
-- PERMANOVA & NMDS  
-- Statistical modelling  
-
-- [Amplicon Pipeline](amplicon.html)
-
----
-
-## 📊 Example Outputs
-
-### Taxonomic Composition
-![Taxa](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/figure_1_taxa_barplot.png)
-
----
-
-### Nitrogen Metabolism in MAGs
-![Nitrogen](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/rumen_nitrogen_cycle_MAGs.png)
-
----
-
-### MAG Prevalence
-![MAG](https://raw.githubusercontent.com/ajbellowalker/scalable-metagenomic-analysis-pipeline/main/figures/figure_3_MAG_prevalence.png)
+👉 [View Project](amplicon.html)
 
 ---
 

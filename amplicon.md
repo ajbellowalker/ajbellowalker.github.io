@@ -1,7 +1,9 @@
+
 ---
 
 ## 🧬 amplicon.md
 
+```markdown
 ---
 layout: default
 title: Amplicon Pipeline
@@ -35,4 +37,3 @@ QIIME2-based pipeline for 16S rRNA analysis:
 
 ```bash
 qiime tools import ...
-```
