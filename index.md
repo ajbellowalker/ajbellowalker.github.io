@@ -1,3 +1,5 @@
+g
+
 ---
 layout: default
 title: Home
@@ -36,7 +38,7 @@ End-to-end Nextflow workflow for shotgun metagenomics:
 - MAG reconstruction  
 - Functional annotation  
 
-👉 [View Project] (https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline)
+👉 [View Project](https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline)
 
 ---
 
@@ -49,7 +51,7 @@ QIIME2-based workflow for 16S rRNA analysis:
 - PERMANOVA & NMDS  
 - Statistical modelling  
 
-👉 [View Project] (https://github.com/ajbellowalker/amplicon-analysis-pipeline)
+👉 [View Project](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
 
 ---
 
