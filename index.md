@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# 🧬 AJ Bellowalker  
-### Bioinformatics Scientist | Microbial Genomics | Computational Biology
+# 🧬 Ayemere J. Bellowalker  
+### Bioinformatics | Microbial Genomics | Computational Biology
 
 [📄 Download CV](assets/cv.pdf)
 
@@ -12,9 +12,7 @@ title: Home
 
 ## 🚀 About Me
 
-I am a bioinformatics researcher specialising in microbial genomics.
-
-My work focuses on developing scalable, reproducible pipelines to analyse microbial communities, with particular emphasis on nitrogen metabolism and efficiency in the rumen microbiome.
+I am a bioinformatics researcher specialised in microbial genomics. My work focuses on developing scalable, reproducible pipelines to analyse microbial communities, with particular emphasis on nitrogen metabolism and efficiency in the rumen microbiome.
 
 I combine:
 - High-throughput sequencing analysis  
