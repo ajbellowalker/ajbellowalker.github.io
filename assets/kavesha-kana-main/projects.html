@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio | Kavesha</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="navigation-bar">
+    <div class="brand-logo"><a href="index.html">Kavesha</a></div>
+    <button class="hamburger-menu" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="navigation-links">
+      <li><a href="index.html">Overview</a></li>
+      <li><a href="resume.html">Resume</a></li>
+      <li><a class="active" href="projects.html">Projects</a></li>
+    </ul>
+  </nav>
+
+  <header class="page-hero container">
+    <h1>Projects</h1>
+    <div class="filters">
+      <button class="btn btn-primary active" data-filter="all">All</button>
+      <button class="btn btn-ghost" data-filter="cybersecurity" id="cybersecurity">Cybersecurity</button>
+      <button class="btn btn-ghost" data-filter="ml" id="ml">Machine Learning</button>
+      <button class="btn btn-ghost" data-filter="dev" id="dev">Development</button>
+    </div>
+  </header>
+
+  <section class="container">
+
+    <div class="grid-3 gap-lg" id="projects">
+      <!-- Cybersecurity -->
+      <article id="latest-project" class="project-card reveal" data-category="cybersecurity">
+        <h3>Personal Home Lab</h3>
+        <p class="muted">Built a local security testing environment with intentionally vulnerable machines for safe practice and workflow testing.</p>
+        <ul class="meta"><li>Linux</li><li>VirtualBox</li><li>Kali</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="cybersecurity">
+        <h3>Password Strength Checker</h3>
+        <p class="muted">A basic tool that analyzes password length, character mix, and patterns to provide strength feedback and improvement tips.</p>
+        <ul class="meta"><li>Python</li><li>Regex</li><li>CLI</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="cybersecurity">
+        <h3>Port Scanner</h3>
+        <p class="muted">Implemented a lightweight scanner to detect open ports on target hosts for basic network reconnaissance.</p>
+        <ul class="meta"><li>Python</li><li>Sockets</li><li>Networking</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="cybersecurity">
+        <h3>MAC Address Changer</h3>
+        <p class="muted">Created a utility to view and modify MAC addresses for interface-level privacy and lab experimentation.</p>
+        <ul class="meta"><li>Bash</li><li>Linux</li><li>Network Utils</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="cybersecurity">
+        <h3>Packet Sniffer</h3>
+        <p class="muted">Built a simple sniffer to capture and inspect packet metadata for protocol-level traffic understanding.</p>
+        <ul class="meta"><li>Python</li><li>Scapy</li><li>Packets</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="cybersecurity">
+        <h3>Web Security</h3>
+        <p class="muted">Practiced common web security checks including input validation, auth flow hardening, and misconfiguration review.</p>
+        <ul class="meta"><li>OWASP</li><li>Burp Suite</li><li>HTTP</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="cybersecurity">
+        <h3>XSS Vulnerability Scanner (Basic)</h3>
+        <p class="muted">Developed a starter scanner to test reflected XSS payloads across query parameters in a controlled environment.</p>
+        <ul class="meta"><li>Python</li><li>Requests</li><li>XSS</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <!-- ML -->
+      <article class="project-card reveal" data-category="ml">
+        <h3>Wine Quality Prediction</h3>
+        <p class="muted">Built a supervised learning model to predict wine quality scores using physicochemical features.</p>
+        <ul class="meta"><li>Python</li><li>Scikit-learn</li><li>Pandas</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="ml">
+        <h3>Credit Card Fraud Detection</h3>
+        <p class="muted">Created an imbalanced-class classification pipeline to detect fraudulent card transactions with improved recall.</p>
+        <ul class="meta"><li>Python</li><li>Scikit-learn</li><li>Imbalanced Data</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="ml">
+        <h3>Movie Recommendation System</h3>
+        <p class="muted">Implemented a recommendation engine using user-item similarity and ranking for personalized movie suggestions.</p>
+        <ul class="meta"><li>Python</li><li>Collaborative Filtering</li><li>NumPy</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="ml">
+        <h3>Heart Failure Death Prediction</h3>
+        <p class="muted">Analyzed clinical records to model and predict death events related to heart failure conditions.</p>
+        <ul class="meta"><li>Python</li><li>Classification</li><li>Data Analysis</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="ml">
+        <h3>Medical Insurance Cost Prediction</h3>
+        <p class="muted">Developed a regression model to estimate individual insurance charges based on demographic and health features.</p>
+        <ul class="meta"><li>Python</li><li>Regression</li><li>Feature Engineering</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="ml">
+        <h3>Handwritten Digit Recognition</h3>
+        <p class="muted">Trained and evaluated a digit classifier for recognizing handwritten numbers from image datasets.</p>
+        <ul class="meta"><li>Python</li><li>TensorFlow</li><li>Computer Vision</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <!-- Dev -->
+      <article class="project-card reveal" data-category="dev">
+        <h3>Personal Portfolio</h3>
+        <p class="muted">This portfolio website with interactive animations and integrated CV content.</p>
+        <ul class="meta"><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
+      </article>
+
+      <article class="project-card reveal" data-category="dev">
+        <h3>Wedding Card - Digital Invite</h3>
+        <p class="muted">A custom designed digital wedding invitation card.</p>
+        <ul class="meta"><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+
+      <article class="project-card reveal" data-category="dev">
+        <h3>Web Scraper</h3>
+        <p class="muted">Built a scraper to collect and structure website data for analysis and reporting workflows.</p>
+        <ul class="meta"><li>Python</li><li>BeautifulSoup</li><li>Requests</li></ul>
+        <a href="project-placeholder.html" class="btn btn-ghost btn-small" style="margin-top: 12px;">View Now →</a>
+      </article>
+    </div>
+  </section>
+
+  <footer class="container">
+    <p class="muted">© 2025 Kavesha • Built with a 🧠 using HTML, CSS & JS</p>
+  </footer>
+
+  <script src="js/hamburger.js"></script>
+  <script src="js/typing.js"></script>
+  <script src="js/reveal.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/smooth-scroll.js"></script>
+  <script src="js/particles.js"></script>
+  <script src="js/nav-active.js"></script>
+  <script src="js/interactions.js"></script>
+</body>
+</html>
