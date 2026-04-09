@@ -65,6 +65,18 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ## 🔬 Featured Projects
 
+### 🧬 GWAS Pipeline (PLINK + R)
+
+- Performed genome-wide association analysis on genotype data  
+- Applied QC filtering (MAF, missingness) using PLINK  
+- Conducted association testing and statistical analysis  
+- Generated Manhattan and QQ plots for variant interpretation  
+- Designed reproducible workflow for population-scale genomics  
+
+🔗 [View Project](your-link)
+
+---
+
 ### 🧬 RNA-seq Differential Expression Pipeline
 
 End-to-end transcriptomic analysis pipeline for human RNA-seq data.
@@ -79,18 +91,6 @@ End-to-end transcriptomic analysis pipeline for human RNA-seq data.
 
 ---
 
-### 🧬 GWAS Pipeline (PLINK + R)
-
-- Performed genome-wide association analysis on genotype data  
-- Applied QC filtering (MAF, missingness) using PLINK  
-- Conducted association testing and statistical analysis  
-- Generated Manhattan and QQ plots for variant interpretation  
-- Designed reproducible workflow for population-scale genomics  
-
-🔗 [View Project](your-link)
-
----
-
 ### 🧪 Scalable Metagenomic Analysis Pipeline
 
 End-to-end Nextflow workflow for shotgun metagenomics
@@ -101,7 +101,7 @@ End-to-end Nextflow workflow for shotgun metagenomics
 - MAG reconstruction  
 - Functional annotation  
 
-🔗 [View Project on GitHub](https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline)
+🔗 [View Project](https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline)
 
 ---
 
@@ -114,7 +114,7 @@ QIIME2-based workflow for 16S rRNA analysis
 - PERMANOVA & NMDS  
 - Statistical modelling  
 
-🔗 [View Project on GitHub](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
+🔗 [View Project](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
 
 ---
 
