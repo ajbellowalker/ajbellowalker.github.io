@@ -50,7 +50,7 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ### 🧪 Scalable Metagenomic Analysis Pipeline
 
-End-to-end Nextflow workflow for shotgun metagenomics:
+**End-to-end Nextflow workflow for shotgun metagenomics:**
 
 - Taxonomic profiling (Kraken2)  
 - Assembly (MEGAHIT)  
@@ -58,20 +58,35 @@ End-to-end Nextflow workflow for shotgun metagenomics:
 - MAG reconstruction  
 - Functional annotation  
 
-👉 [View Project](https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline)
+🔗 [View Project on GitHub](https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline)
 
 ---
 
 ### 🧬 Amplicon Analysis Pipeline
 
-QIIME2-based workflow for 16S rRNA analysis:
+**QIIME2-based workflow for 16S rRNA analysis:**
 
 - DADA2 denoising  
 - Diversity analysis  
 - PERMANOVA & NMDS  
 - Statistical modelling  
 
-👉 [View Project](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
+🔗 [View Project on GitHub](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
+
+---
+
+### 🧬 RNA-seq Differential Expression Pipeline
+
+**End-to-end transcriptomic analysis pipeline for human RNA-seq data:**
+
+- Developed a modular RNA-seq pipeline integrating FastQC, Hisat2, Samtools, and DESeq2  
+- Performed quality control, alignment, and differential gene expression analysis  
+- Generated PCA plots, volcano plots, and heatmaps for data interpretation  
+- Conducted Gene Ontology (GO) enrichment analysis using topGO  
+- Implemented reproducible workflows combining command-line tools and R (Bioconductor)  
+- Structured outputs for downstream analysis and reporting  
+
+🔗 [View Project on GitHub](https://github.com/ajbellowalker/rna-seq-differential-expression-pipeline)
 
 ---
 
