@@ -37,7 +37,7 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ---
 
-## Core Expertise
+## 🛠️ Core Expertise
 
 - Genomic Data Engineering & Workflow Automation  
 - RNA-seq & Transcriptomics Analysis  
@@ -47,7 +47,7 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ---
 
-## Technologies
+## 💻 Technologies
 
 **Languages:** Python, R, Bash, Java  
 **Workflow Tools:** Nextflow, Docker  
