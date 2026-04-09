@@ -65,6 +65,8 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ## 🔬 Featured Projects
 
+---
+
 ### 🧬 GWAS Pipeline (PLINK + R)
 
 - Performed genome-wide association analysis on genotype data  
