@@ -4,7 +4,9 @@ title: Home
 ---
 
 # 🧬 Ayemere J. Bellowalker  
-### Bioinformatics | Microbial Genomics | Computational Biology
+### Bioinformatics Scientist | Genomic Data Engineering | Scalable Pipelines
+
+Building scalable genomic data pipelines to enable data-driven discovery in healthcare and biotechnology.
 
 [📄 Download CV](assets/cv.pdf)
 
@@ -17,6 +19,12 @@ Bioinformatics Scientist specialising in genomic data engineering, scalable pipe
 Experienced in building production-grade workflows for large-scale sequencing data across HPC and cloud environments. Skilled in RNA-seq, metagenomics, and data integration, with a focus on reproducibility and high-quality data delivery.
 
 Currently applying computational approaches to microbiome research, with growing interest in human genomics and population-scale data analysis.
+
+---
+
+## 🌍 Research Impact
+
+My research focuses on improving nitrogen use efficiency in livestock through microbiome engineering, contributing to more sustainable agricultural systems.
 
 ---
 
@@ -39,12 +47,6 @@ Currently applying computational approaches to microbiome research, with growing
 
 ---
 
-## 🌍 Research Impact
-
-My research focuses on improving nitrogen use efficiency in livestock through microbiome engineering, contributing to more sustainable agricultural systems.
-
----
-
 ## Technologies
 
 **Languages:** Python, R, Bash, Java  
@@ -56,10 +58,19 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ## ⚙️ Engineering Approach
 
-- Modular pipeline architecture (Nextflow DSL2)
-- Reproducible environments (Docker/Conda)
-- Scalable execution (HPC + cloud)
-- Data standardisation and structured outputs 
+- Modular and reproducible pipeline design (Nextflow DSL2)  
+- Containerised environments (Docker, Conda)  
+- Scalable execution across HPC and cloud platforms  
+- Automated data processing, validation, and structured outputs  
+
+---
+
+## 📊 Data & Analysis Focus
+
+- Large-scale sequencing data processing (>2.3B reads)  
+- Population-scale genomics and GWAS workflows  
+- Transcriptomics and differential expression analysis  
+- Multi-omics data integration and modelling  
 
 ---
 
@@ -69,13 +80,14 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ### 🧬 GWAS Pipeline (PLINK + R)
 
-- Performed genome-wide association analysis on genotype data  
-- Applied QC filtering (MAF, missingness) using PLINK  
-- Conducted association testing and statistical analysis  
-- Generated Manhattan and QQ plots for variant interpretation  
-- Designed reproducible workflow for population-scale genomics  
+Reproducible genome-wide association study (GWAS) pipeline for identifying genetic variants associated with traits.
 
-🔗 [View Project](your-link)
+- Implemented QC filtering (missingness, MAF) using PLINK  
+- Performed association testing on population-scale genotype data  
+- Generated Manhattan and QQ plots for statistical interpretation  
+- Designed a modular workflow for scalable genomic data analysis  
+
+🔗 [View Project](https://github.com/ajbellowalker/gwas-pipeline-demo)
 
 ---
 
@@ -83,17 +95,17 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 End-to-end transcriptomic analysis pipeline for human RNA-seq data.
 
-- Built a reproducible workflow integrating FastQC, Hisat2, Samtools, and DESeq2  
-- Performed differential gene expression analysis with statistical filtering and multiple testing correction  
+- Built reproducible workflow integrating FastQC, Hisat2, Samtools, and DESeq2  
+- Performed differential expression analysis with statistical filtering and multiple testing correction  
 - Generated PCA, volcano plots, and heatmaps for biological interpretation  
-- Implemented Gene Ontology enrichment analysis using topGO  
-- Designed a modular pipeline structure with organised outputs for downstream analysis  
+- Conducted functional enrichment analysis using Gene Ontology (topGO)  
+- Structured outputs for scalable downstream analysis  
 
 🔗 [View Project](https://github.com/ajbellowalker/rna-seq-differential-expression-pipeline)
 
 ---
 
-### 🧪 Scalable Metagenomic Analysis Pipeline
+### 🧬 Scalable Metagenomic Analysis Pipeline
 
 End-to-end Nextflow workflow for shotgun metagenomics
 
@@ -120,8 +132,7 @@ QIIME2-based workflow for 16S rRNA analysis
 
 ---
 
-
 ## 📫 Contact
 
-- Email: ayemerewalker001@icloud.com  
+- Email: [ayemerewalker001@icloud.com](mailto:ayemerewalker001@icloud.com)  
 - ORCID: https://orcid.org/0009-0006-3889-3416  

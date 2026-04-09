@@ -4,52 +4,52 @@
 
 ### 🧬 GWAS Pipeline (PLINK + R)
 
-- Performed genome-wide association analysis on genotype data  
-- Applied QC filtering (MAF, missingness) using PLINK  
-- Conducted association testing and statistical analysis  
-- Generated Manhattan and QQ plots for variant interpretation  
-- Designed reproducible workflow for population-scale genomics  
+Reproducible genome-wide association study (GWAS) pipeline for identifying genetic variants associated with traits.
 
-🔗 [View Project](your-link)
+- Implemented QC filtering (missingness, MAF) using PLINK  
+- Performed association testing on population-scale genotype data  
+- Generated Manhattan and QQ plots for statistical interpretation  
+- Designed a modular workflow for scalable genomic data analysis  
+
+🔗 [View Project](https://github.com/ajbellowalker/gwas-pipeline-demo)
 
 ---
 
-## 🧬 RNA-seq Differential Expression Pipeline
+### 🧬 RNA-seq Differential Expression Pipeline
 
-**End-to-end transcriptomic analysis pipeline for human RNA-seq data:**
+End-to-end transcriptomic analysis pipeline for human RNA-seq data.
 
-- Developed a modular RNA-seq pipeline integrating FastQC, Hisat2, Samtools, and DESeq2  
-- Performed quality control, alignment, and differential gene expression analysis  
-- Generated PCA plots, volcano plots, and heatmaps for data interpretation  
-- Conducted Gene Ontology (GO) enrichment analysis using topGO  
-- Implemented reproducible workflows combining command-line tools and R (Bioconductor)  
-- Structured outputs for downstream analysis and reporting  
+- Built reproducible workflow integrating FastQC, Hisat2, Samtools, and DESeq2  
+- Performed differential expression analysis with statistical filtering and multiple testing correction  
+- Generated PCA, volcano plots, and heatmaps for biological interpretation  
+- Conducted functional enrichment analysis using Gene Ontology (topGO)  
+- Structured outputs for scalable downstream analysis  
 
-🔗 https://github.com/ajbellowalker/rna-seq-differential-expression-pipeline
+🔗 [View Project](https://github.com/ajbellowalker/rna-seq-differential-expression-pipeline)
 
 ---
 
 ### 🧬 Scalable Metagenomic Analysis Pipeline
 
-**End-to-end shotgun metagenomics workflow:**
+End-to-end Nextflow workflow for shotgun metagenomics
 
-- Assembly (MEGAHIT)
-- Binning (MetaBAT2, SemiBin2)
-- MAG refinement (DAS Tool)
-- Taxonomy (GTDB-Tk)
-- Functional annotation (eggNOG)
+- Taxonomic profiling (Kraken2)  
+- Assembly (MEGAHIT)  
+- Binning (MetaBAT2)  
+- MAG reconstruction  
+- Functional annotation  
 
-🔗 https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline
+🔗 [View Project](https://github.com/ajbellowalker/scalable-metagenomic-analysis-pipeline)
 
 ---
 
-### 🧪 Amplicon Analysis Pipeline
+### 🧬 Amplicon Analysis Pipeline
 
-**16S rRNA pipeline using QIIME2:**
+QIIME2-based workflow for 16S rRNA analysis
 
-- DADA2 denoising
-- SILVA taxonomy
-- Diversity analysis
-- DESeq2 differential abundance
+- DADA2 denoising  
+- Diversity analysis  
+- PERMANOVA & NMDS  
+- Statistical modelling  
 
-🔗 https://github.com/ajbellowalker/amplicon-analysis-pipeline
+🔗 [View Project](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
