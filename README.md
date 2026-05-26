@@ -2,19 +2,6 @@
 
 ## Projects
 
-### 🧬 GWAS Pipeline (PLINK + R)
-
-Reproducible genome-wide association study (GWAS) pipeline for identifying genetic variants associated with traits.
-
-- Implemented QC filtering (missingness, MAF) using PLINK  
-- Performed association testing on population-scale genotype data  
-- Generated Manhattan and QQ plots for statistical interpretation  
-- Designed a modular workflow for scalable genomic data analysis  
-
-🔗 [View Project](https://github.com/ajbellowalker/gwas-pipeline-demo)
-
----
-
 ### 🧬 RNA-seq Differential Expression Pipeline
 
 End-to-end transcriptomic analysis pipeline for human RNA-seq data.
@@ -53,3 +40,16 @@ QIIME2-based workflow for 16S rRNA analysis
 - Statistical modelling  
 
 🔗 [View Project](https://github.com/ajbellowalker/amplicon-analysis-pipeline)
+
+---
+
+### 🧬 GWAS Pipeline (PLINK + R)
+
+Reproducible genome-wide association study (GWAS) pipeline for identifying genetic variants associated with traits.
+
+- Implemented QC filtering (missingness, MAF) using PLINK  
+- Performed association testing on population-scale genotype data  
+- Generated Manhattan and QQ plots for statistical interpretation  
+- Designed a modular workflow for scalable genomic data analysis  
+
+🔗 [View Project](https://github.com/ajbellowalker/gwas-pipeline-demo)
