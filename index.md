@@ -78,19 +78,6 @@ My research focuses on improving nitrogen use efficiency in livestock through mi
 
 ---
 
-### 🧬 GWAS Pipeline (PLINK + R)
-
-Reproducible genome-wide association study (GWAS) pipeline for identifying genetic variants associated with traits.
-
-- Implemented QC filtering (missingness, MAF) using PLINK  
-- Performed association testing on population-scale genotype data  
-- Generated Manhattan and QQ plots for statistical interpretation  
-- Designed a modular workflow for scalable genomic data analysis  
-
-🔗 [View Project](https://github.com/ajbellowalker/gwas-pipeline-demo)
-
----
-
 ### 🧬 RNA-seq Differential Expression Pipeline
 
 End-to-end transcriptomic analysis pipeline for human RNA-seq data.
@@ -107,7 +94,7 @@ End-to-end transcriptomic analysis pipeline for human RNA-seq data.
 
 ### 🧬 Scalable Metagenomic Analysis Pipeline
 
-End-to-end Nextflow workflow for shotgun metagenomics
+End-to-end Nextflow workflow for shotgun metagenomics.
 
 - Taxonomic profiling (Kraken2)  
 - Assembly (MEGAHIT)  
@@ -121,7 +108,7 @@ End-to-end Nextflow workflow for shotgun metagenomics
 
 ### 🧬 Amplicon Analysis Pipeline
 
-QIIME2-based workflow for 16S rRNA analysis
+QIIME2-based workflow for 16S rRNA analysis.
 
 - DADA2 denoising  
 - Diversity analysis  
@@ -132,7 +119,21 @@ QIIME2-based workflow for 16S rRNA analysis
 
 ---
 
+### 🧬 GWAS Pipeline (PLINK + R)
+
+Reproducible genome-wide association study (GWAS) pipeline for identifying genetic variants associated with traits.
+
+- Implemented QC filtering (missingness, MAF) using PLINK  
+- Performed association testing on population-scale genotype data  
+- Generated Manhattan and QQ plots for statistical interpretation  
+- Designed a modular workflow for scalable genomic data analysis  
+
+🔗 [View Project](https://github.com/ajbellowalker/gwas-pipeline-demo)
+
+---
+
 ## 📫 Contact
 
-- Email: [ayemerewalker001@icloud.com](mailto:ayemerewalker001@icloud.com)  
+- Email: [ayemerewalker001@icloud.com](mailto:ayemerewalker001@icloud.com)
+- LinkedIn: https://www.linkedin.com/in/ayemere-bellowalker
 - ORCID: https://orcid.org/0009-0006-3889-3416  
