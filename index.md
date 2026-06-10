@@ -135,5 +135,5 @@ Reproducible genome-wide association study (GWAS) pipeline for identifying genet
 ## 📫 Contact
 
 - Email: [ayemerewalker001@icloud.com](mailto:ayemerewalker001@icloud.com)
-- LinkedIn: https://www.linkedin.com/in/ayemere-bellowalker
-- ORCID: https://orcid.org/0009-0006-3889-3416  
+- LinkedIn: [Ayemere J. Bellowalker](https://www.linkedin.com/in/ayemere-bellowalker)
+- ORCID: [Ayemere J. Bellowalker](https://orcid.org/0009-0006-3889-3416)  
