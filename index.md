@@ -8,7 +8,7 @@ title: Home
 
 Building scalable genomic data pipelines to enable data-driven discovery in healthcare and biotechnology.
 
-[📄 Download CV](assets/cv.pdf)
+[📄 Download CV](assets/CV.pdf)
 
 ---
 
